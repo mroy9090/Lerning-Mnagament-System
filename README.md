@@ -23,14 +23,13 @@ cd LMS
 
 
 ---
-## 📦 Backend (Laravel 10 API)
 
-### Requirements:
+## ✨ Features
+- User authentication (Admin & Student)
+- Course management
+- Student enrollment
+- Database seeding for demo data
+- Laravel API backend + Vue 3 frontend
+- Responsive design
 
-    PHP 8.1+
-
-    Composer
-
-    MySQL
-
-    Laravel 10
+---
