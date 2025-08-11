@@ -23,6 +23,27 @@ A **Learning Management System (LMS)** built with **Laravel 10** for the backend
 - MySQL
 - Laravel 10
 
+
+---
+
+#### Requirements:
+- Node.js 16+
+- npm or yarn
+
+---
+
+## Admin & Student Credentials
+
+### Admin Login:
+- **Email:** admin@gmail.com
+- **Password:** 123456
+
+### Student Login:
+- **Email:** student@gmail.com
+- **Password:** 123456
+
+---
+
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
