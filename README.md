@@ -14,33 +14,18 @@ A **Learning Management System (LMS)** built with **Laravel 10** for the backend
 
 ---
 
+
+### Backend (Laravel 10 API)
+
+#### Requirements:
+- PHP 8.1+
+- Composer
+- MySQL
+- Laravel 10
+
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/IsHereZahin/LMS.git
 cd LMS
-
-
----
-
-## Requirements
-
-### Backend (Laravel 10 API)
-- **PHP**: 8.1 or higher
-- **Composer**: Latest version
-- **MySQL**: 5.7+ or MariaDB equivalent
-- **Laravel**: 10.x
-
-### Frontend (Vue 3)
-- **Node.js**: 16.x or higher
-- **npm** or **yarn**: Latest version
-
-### Tools (Recommended)
-- **Git**: For cloning and version control
-- **XAMPP / Laragon / Valet**: Local development environment
-- **VS Code**: Code editor
-- **Postman**: API testing (optional)
-
-
----
