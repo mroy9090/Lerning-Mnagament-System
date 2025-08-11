@@ -24,7 +24,7 @@ cd LMS
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 ### Backend (Laravel 10 API)
 - **PHP**: 8.1 or higher
