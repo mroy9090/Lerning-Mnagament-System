@@ -24,12 +24,23 @@ cd LMS
 
 ---
 
-## ✨ Features
-- User authentication (Admin & Student)
-- Course management
-- Student enrollment
-- Database seeding for demo data
-- Laravel API backend + Vue 3 frontend
-- Responsive design
+## 🛠 Requirements
+
+### Backend (Laravel 10 API)
+- **PHP**: 8.1 or higher
+- **Composer**: Latest version
+- **MySQL**: 5.7+ or MariaDB equivalent
+- **Laravel**: 10.x
+
+### Frontend (Vue 3)
+- **Node.js**: 16.x or higher
+- **npm** or **yarn**: Latest version
+
+### Tools (Recommended)
+- **Git**: For cloning and version control
+- **XAMPP / Laragon / Valet**: Local development environment
+- **VS Code**: Code editor
+- **Postman**: API testing (optional)
+
 
 ---
