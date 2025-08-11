@@ -21,9 +21,11 @@ A **Learning Management System (LMS)** built with **Laravel 10** for the backend
 git clone https://github.com/IsHereZahin/LMS.git
 cd LMS
 
-📦 Backend (Laravel 10 API)
 
-Requirements:
+---
+## 📦 Backend (Laravel 10 API)
+
+### Requirements:
 
     PHP 8.1+
 
